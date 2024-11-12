@@ -1,9 +1,11 @@
 # template_4_shortActivity (Replace for Course Title)
 
 ### Course Title
-
+reproducible training materials workshop
 ### Contributors
-
+vanessa Gonzalez Ribao
+samantha wittek
+jacobo miranda
 |  |  |
 |--|--|
 |[![ORCID](https://raw.githubusercontent.com/vibbits/rdm-introductory-course/main/images/logos/32px-ORCID_iD.svg.png)](https://orcid.org/0000-0000-0000-0000) Author Name | ![ORCID](https://raw.githubusercontent.com/vibbits/rdm-introductory-course/main/images/logos/32px-ORCID_iD.svg.png)](https://orcid.org/0000-0000-0000-0000) Author Name |
